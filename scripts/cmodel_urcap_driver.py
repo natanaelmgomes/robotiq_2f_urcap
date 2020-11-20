@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.7
 
 # """Module to control Robotiq's gripper 2F-85."""
 # BASED ON: https://dof.robotiq.com/discussion/1962/programming-options-ur16e-2f-85#latest
