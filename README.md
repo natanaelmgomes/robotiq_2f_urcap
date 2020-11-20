@@ -9,5 +9,5 @@ roslaunch robotiq_2f_urcap robotiq_2f_bringup.launch ur_address:=192.168.56.2
 ```
 ## References
 
-[Robotiq Community Discussion](https://dof.robotiq.com/discussion/1962/programming-options-ur16e-2f-85)
+[Robotiq Community Discussion](https://dof.robotiq.com/discussion/1962/programming-options-ur16e-2f-85)  
 [Felix von Drigalski code](https://gist.github.com/felixvd/d538cad3150e9cac28dae0a3132701cf)
