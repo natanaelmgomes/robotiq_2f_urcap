@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="ur_address" default="192.168.56.2"  doc="IP address of the UR robot." />
+  <node name="robotiq_2f" pkg="robotiq_2f_urcap" type="cmodel_urcap_driver.py" output="screen" args="$(arg ur_address)"/>
+</launch>
